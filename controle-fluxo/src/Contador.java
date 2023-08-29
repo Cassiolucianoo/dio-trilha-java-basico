@@ -1,5 +1,3 @@
-package view;
-
 import java.util.Scanner;
 import model.ContadorModel;
 import util.LerInteiro;
