@@ -12,4 +12,5 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 UML REALIZADO !
 
-![alt text](https://github.com/Cassiolucianoo/)
+
+![UML](https://raw.githubusercontent.com/Cassiolucianoo/dio-trilha-java-basico/main/poo/assets/CASSIO.jpeg)
